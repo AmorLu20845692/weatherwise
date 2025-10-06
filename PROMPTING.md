@@ -134,14 +134,14 @@ def parse_weather_question(question):
 
 ## Reflection on AI Integration
 
-The AI development process proved invaluable for several reasons:
+AI development was also really helpful for a few other reasons:
 
-1. **Accelerated Learning**: AI helped me discover best practices and design patterns I wouldn't have found independently
-2. **Quality Enhancement**: Iterative prompting led to progressively better implementations
-3. **Problem Solving**: AI provided multiple perspectives on technical challenges
-4. **Code Review**: Acting as a knowledgeable peer reviewer, catching issues and suggesting improvements
+1. Quickened my learning, AI exposed me to best practices and design patterns I may not have discovered on my own.
+2. Improved code quality, iterative prompting resulted in continually better implementations.
+3. Assisted with problem solving, AI offered alternate perspectives for various technical challenges.
+4. Helpful code review, acting as a technically advanced peer reviewer catching bugs, poor design choices, etc.
 
-The key to effective AI collaboration was maintaining critical thinking - questioning suggestions, understanding the reasoning behind recommendations, and adapting solutions to fit specific project needs rather than blindly accepting generated code.
+The critical part of using AI well was to still exercise critical thinking skills - question what was suggested, make sure I understood the why behind a recommendation, and tailor it to the specific use case/project constraints rather than just copy-pasting the generated code.
 
 ## Lessons Learned
 
