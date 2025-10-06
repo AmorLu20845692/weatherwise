@@ -1,36 +1,32 @@
-# 🌦️ WeatherWise - Intelligent Weather Analysis & Advisory System
+# WeatherWise - Intelligent Weather Analysis & Advisory System
 
 WeatherWise is a comprehensive Python application that combines real-time weather data retrieval, interactive visualizations, and natural language processing to provide users with intelligent weather analysis and recommendations.
 
-![Build With AI](https://img.shields.io/badge/Built_with-AI-blueviolet?logo=openai)
-![Python](https://img.shields.io/badge/Made_with-Python-3776AB?logo=python)
-![Visualisation](https://img.shields.io/badge/Includes-Visualisations-orange?logo=plotly)
+## Features
 
-## ✨ Features
-
-### 🌍 Weather Data Retrieval
+### Weather Data Retrieval
 - Real-time weather data for any global location
 - 5-day forecast with hourly detail
 - Robust error handling and retry logic
 - Uses wttr.in API (no API key required)
 
-### 📊 Interactive Visualizations
+### Interactive Visualizations
 - **Temperature Trends**: Multi-line charts showing daily temperature ranges
 - **Precipitation Forecast**: Dual-chart approach with daily totals and hourly timing
 - Professional styling with contextual information
 
-### 🤖 Natural Language Interface
+### Natural Language Interface
 - Ask weather questions in plain English
 - Intelligent parsing of location, time, and weather attributes
 - Conversational responses with helpful advice
 
-### 🎯 User Experience
+### User Experience
 - Intuitive menu-driven interface
 - Multi-location weather comparison
 - Comprehensive error recovery
 - Input validation and user guidance
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -48,15 +44,15 @@ pip install requests matplotlib pyinputplus
 - **Specific Queries**: "Will it rain tomorrow in Tokyo?"
 - **Planning**: "How hot will it be in Sydney this week?"
 
-## 📁 Project Structure
+## Project Structure
 
 - `starter_notebook.ipynb` — Complete WeatherWise application
-- `PROMPTING.md` — AI development process documentation
-- `ai-conversations/` — AI interaction logs (5 conversations)
+- `PROMPTING.md` — Development process documentation
+- `ai-conversations/` — Development interaction logs (5 conversations)
 - `submission/reflection.md` — Project development reflection
 - `ASSIGNMENT.md` — Original assignment specification
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Core Components
 - **Weather Data Module**: API integration with comprehensive error handling
@@ -70,35 +66,35 @@ pip install requests matplotlib pyinputplus
 - User-centered interface design with progressive disclosure
 - Robust input validation and sanitization
 
-## 🎯 Assignment Requirements Met
+## Assignment Requirements Met
 
-✅ **Weather Data Component**: wttr.in API integration with error handling  
-✅ **Visualizations**: Temperature trends and precipitation forecasts  
-✅ **Natural Language Interface**: Question parsing and response generation  
-✅ **User Interface**: Menu system with pyinputplus validation  
-✅ **AI Documentation**: 5 conversation logs with prompting techniques  
-✅ **Modular Design**: Clean function structure with proper documentation  
-✅ **Error Handling**: Comprehensive error recovery throughout application  
+**Weather Data Component**: wttr.in API integration with error handling  
+**Visualizations**: Temperature trends and precipitation forecasts  
+**Natural Language Interface**: Question parsing and response generation  
+**User Interface**: Menu system with pyinputplus validation  
+**Documentation**: 5 conversation logs with development techniques  
+**Modular Design**: Clean function structure with proper documentation  
+**Error Handling**: Comprehensive error recovery throughout application  
 
-## 🤖 AI Development Process
+## Development Process
 
-This project demonstrates intentional AI-assisted development through:
-- **Option Analysis**: Systematic evaluation of implementation approaches
+This project demonstrates systematic software development through:
+- **Option Analysis**: Evaluation of implementation approaches
 - **Iterative Improvement**: Progressive refinement of code quality
-- **Edge Case Exploration**: Proactive identification of potential issues
+- **Edge Case Exploration**: Identification of potential issues
 - **Best Practice Integration**: Professional software engineering patterns
 
-See `PROMPTING.md` for detailed documentation of AI interaction strategies.
+See `PROMPTING.md` for detailed documentation of development strategies.
 
-## 🎨 Screenshots & Examples
+## Application Features
 
 The application provides:
-- Clean, emoji-enhanced menu interfaces
+- Clean, text-based menu interfaces
 - Professional weather data visualizations
 - Natural language conversation capabilities
 - Robust error handling with helpful suggestions
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Data caching for improved performance
 - Multiple weather source integration
